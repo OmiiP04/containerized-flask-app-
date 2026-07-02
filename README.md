@@ -198,6 +198,4 @@ Through this project, I learned how to:
 - GitHub: https://github.com/OmiiP04
 - LinkedIn: https://www.linkedin.com/in/om-patil-ab6774242/
 
----
-
 ## ⭐ If you found this project useful, consider giving it a star!
