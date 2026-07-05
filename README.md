@@ -178,7 +178,6 @@ Through this project, I learned how to:
 - Troubleshoot IAM permissions and deployment issues.
 - Deploy scalable cloud-native applications.
 
----
 
 ## 🚀 Future Improvements
 
@@ -189,7 +188,6 @@ Through this project, I learned how to:
 - Auto Scaling
 - CI/CD using GitHub Actions
 
----
 
 ## 👨‍💻 Author
 
